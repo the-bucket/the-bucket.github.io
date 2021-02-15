@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&display=swap');
+
+.wf-loading * {
+  visibility: hidden;
+}
+
+.wf-active * {
+  visibility: visible;
+}
+
+body {
+  background-color: #fefefa;
+  color: #454545;
+  font-family: Merriweather, Georgia, serif;
+  font-size: 16px;
+  font-weight: normal;
+
+  line-height:1.5em;
+  margin: 0;
+  background-image: url('../images/header-background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: left top;
+
+  background-size: contain;
+
+  height: 100vh;
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+
+  margin-top: 20px;
+  padding: 5px 20px;
+  transition-duration: 2s;
+  transition-property: opacity;
+}
+
+
+
+.fade{
+  opacity: 1;
+}
+
+h1 {
+  font-family: Roboto, sans-serif;
+  line-height: 1em;
+}
+
+h2 {
+  font-family: Roboto, sans-serif;
+  color: #696969;
+  font-style: italic;
+}
+
+h3 {
+  font-family: Roboto, sans-serif;
+  color: #454545;
+}
+
+a {
+  color: #454545;
+}
+
+a:hover{
+  color: #ccafe9;
+}
+
+
+
+.post {
+  background-color: #fefefa;
+  box-shadow: 4px 4px 4px 4px #aaaaaa;
+  border-radius: 5px;
+
+  padding: 5px 10px;
+
+}
