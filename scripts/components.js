@@ -18,9 +18,9 @@ class HeaderPart extends HTMLElement {
 
       <ul id="test">
         <li>
-          <div class="navli" id="home-nav">
+          <div class="navli" id="index-nav">
 
-          <a href="home.html">home</a>
+          <a href="index.html">home</a>
 
           </div>
         </li>
