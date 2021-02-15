@@ -1,6 +1,8 @@
 var curpage = location.href.split("/").slice(-1);
 
 var pages = {
+  "": document.getElementById('index-nav'),
+  "#": document.getElementById('index-nav'),
   "index.html": document.getElementById('index-nav'),
   "index.html#": document.getElementById('index-nav'),
   "ramblings.html": document.getElementById('ramblings-nav'),

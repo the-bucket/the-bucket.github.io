@@ -20,7 +20,7 @@ class HeaderPart extends HTMLElement {
         <li>
           <div class="navli" id="index-nav">
 
-          <a href="index.html">home</a>
+          <a href="https://the-bucket.github.io">home</a>
 
           </div>
         </li>
