@@ -11,8 +11,6 @@ var pages = {
 
   "tokipona.html": document.getElementById('tokipona-nav'),
   "tokipona.html#": document.getElementById('tokipona-nav'),
-  "kamasona.html": document.getElementById('tokipona-nav'),
-  "kamasona.html#": document.getElementById('tokipona-nav'),
 
   "misc.html": document.getElementById('misc-nav'),
   "misc.html#": document.getElementById('misc-nav'),
@@ -21,7 +19,7 @@ var pages = {
 
   "people.html": document.getElementById('people-nav'),
   "people.html#": document.getElementById('people-nav'),
-  
+
   "about.html": document.getElementById('about-nav'),
   "about.html#": document.getElementById('about-nav'),
 
