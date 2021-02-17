@@ -5,16 +5,23 @@ var pages = {
   "#": document.getElementById('index-nav'),
   "index.html": document.getElementById('index-nav'),
   "index.html#": document.getElementById('index-nav'),
+
   "ramblings.html": document.getElementById('ramblings-nav'),
   "ramblings.html#": document.getElementById('ramblings-nav'),
+
   "tokipona.html": document.getElementById('tokipona-nav'),
   "tokipona.html#": document.getElementById('tokipona-nav'),
   "kamasona.html": document.getElementById('tokipona-nav'),
   "kamasona.html#": document.getElementById('tokipona-nav'),
+
   "misc.html": document.getElementById('misc-nav'),
   "misc.html#": document.getElementById('misc-nav'),
+  "writings.html": document.getElementById('misc-nav'),
+  "writings.html#": document.getElementById('misc-nav'),
+
   "people.html": document.getElementById('people-nav'),
   "people.html#": document.getElementById('people-nav'),
+  
   "about.html": document.getElementById('about-nav'),
   "about.html#": document.getElementById('about-nav'),
 

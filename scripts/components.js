@@ -20,42 +20,42 @@ class HeaderPart extends HTMLElement {
         <li>
           <div class="navli" id="index-nav">
 
-          <a href="index.html">home</a>
+          <a href="/">home</a>
 
           </div>
         </li>
         <li>
           <div class="navli" id="ramblings-nav">
 
-          <a href="ramblings.html">ramblings</a>
+          <a href="/ramblings.html">ramblings</a>
 
           </div>
         </li>
         <li>
           <div class="navli" id="tokipona-nav">
 
-          <a href="tokipona.html">toki pona</a>
+          <a href="/tokipona.html">toki pona</a>
 
           </div>
         </li>
         <li>
           <div class="navli" id="misc-nav">
 
-          <a href="misc.html">misc</a>
+          <a href="/misc.html">misc</a>
 
           </div>
         </li>
         <li>
           <div class="navli" id="people-nav">
 
-          <a href="people.html">people</a>
+          <a href="/people.html">people</a>
 
           </div>
         </li>
         <li>
           <div class="navli" id="about-nav">
 
-          <a href="about.html">about</a>
+          <a href="/about.html">about</a>
 
           </div>
         </li>
